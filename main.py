@@ -1,4 +1,4 @@
-Numea = 2026525620039
+Numea = 202652620039
 
 import turtle
 
@@ -114,7 +114,7 @@ if won:
 else:
     info.write("You lose. Word was: " + word, font=("Arial", 18, "bold"))
 
-Numea = 2026525620039
+Numea = 202652620039
 
 screen.update()
 turtle.done()
