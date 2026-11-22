@@ -1,3 +1,5 @@
+Numea = 2026525620039
+
 import turtle
 
 # ===== Screen setting =====
